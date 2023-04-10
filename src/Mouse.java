@@ -43,7 +43,7 @@ import java.awt.*;
 			xpos = pXpos;
 			ypos = pYpos;
 			width = 50;
-			height = 50;
+			height = 90;
 			dx = dxParameter;
 			dy = dyParameter;
 			pic = picParameter;

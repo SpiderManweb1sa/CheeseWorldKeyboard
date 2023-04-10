@@ -25,8 +25,8 @@ public class Player {
 
         xpos = pXpos;
         ypos = pYpos;
-        width = 100;
-        height = 100;
+        width = 50;
+        height = 50;
         dx = dxParameter;
         dy = dyParameter;
         pic = picParameter;

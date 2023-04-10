@@ -29,8 +29,8 @@ public class Cheese {
         ypos = pYpos;
         width = 50;
         height = 50;
-        dx = 5;
-        dy = -5;
+        dx = 4;
+        dy = -4;
         isAlive = true;
         hits = 0;
         rec = new Rectangle(xpos, ypos, width, height);
